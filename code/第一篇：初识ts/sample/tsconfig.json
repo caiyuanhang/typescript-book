@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "strick": true,
+        "target": "ES5"
+    }
+}
